@@ -110,8 +110,8 @@ md5 GCF_000005845.2_ASM584v2_genomic.gff.gz
 
 Results:
 
-<c13d459b5caa702ff7e1f26fe44b8ad7> GCF_000005845.2_ASM584v2_genomic.fna.gz 
-<2238238dd39e11329547d26ab138be41> GCF_000005845.2_ASM584v2_genomic.gff.gz 
+c13d459b5caa702ff7e1f26fe44b8ad7 GCF_000005845.2_ASM584v2_genomic.fna.gz 
+2238238dd39e11329547d26ab138be41 GCF_000005845.2_ASM584v2_genomic.gff.gz 
 
 (HPC)
 
@@ -120,8 +120,8 @@ md5sum *.gz
 
 Results:
 
-<c13d459b5caa702ff7e1f26fe44b8ad7> GCF_000005845.2_ASM584v2_genomic.fna.gz
-<2238238dd39e11329547d26ab138be41> GCF_000005845.2_ASM584v2_genomic.gff.gz 
+c13d459b5caa702ff7e1f26fe44b8ad7 GCF_000005845.2_ASM584v2_genomic.fna.gz
+2238238dd39e11329547d26ab138be41 GCF_000005845.2_ASM584v2_genomic.gff.gz 
 
 Verification:
 
