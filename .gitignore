@@ -1,3 +1,14 @@
-data/
+# macOS junk
+.DS_Store
 
-# Ignore data folders
+# ignore large data folders in assignments
+assignments/**/data/
+
+# optional: ignore compressed & genome files
+*.fna
+*.fa
+*.fna.gz
+*.fastq
+*.gz
+*.gff
+
