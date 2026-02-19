@@ -21,9 +21,9 @@ This assignment explored working with genomic FASTA files using Unix command-li>
 
 assignment_3/
 ├── README.md
-├── tair10.tsv
 └── data/
     └── GCF_000001735.4_TAIR10.1_genomic.fna
+    └── tair10.tsv
 
 ---
 
