@@ -1,6 +1,11 @@
 # macOS junk
 .DS_Store
 
+# ignore big derived outputs
+assignments/assignment_3/tair10.tsv
+*.tsv
+
+
 # ignore large data folders in assignments
 assignments/**/data/
 
