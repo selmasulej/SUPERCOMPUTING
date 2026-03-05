@@ -9,6 +9,10 @@ assignments/assignment_3/tair10.tsv
 # ignore large data folders in assignments
 assignments/**/data/
 
+# a_5
+assignments/**/log/
+
+
 # optional: ignore compressed & genome files
 *.fna
 *.fa
