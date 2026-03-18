@@ -12,29 +12,31 @@ Selma Sulejmanovic
 
 ## Project Structure
 
-assignment_6/ 
-├── pipeline.sh 
-├── README.md 
-├── flye-env.yml 
-├── scripts/ 
-│   ├── 01_download_data.sh 
-│   ├── 02_flye_2.9.6_manual_build.sh 
-│   ├── 02_flye_2.9.6_conda_install.sh 
-│   ├── 03_run_flye_conda.sh 
-│   ├── 03_run_flye_module.sh 
-│   └── 03_run_flye_local.sh 
-├── data/ 
-│   └── SRR33939694.fastq.gz 
-└── assemblies/ 
-    ├── assembly_conda/  
-    │   ├── conda_assembly.fasta  
-    │   └── conda_flye.log  
-    ├── assembly_module/  
-    │   ├── module_assembly.fasta  
-    │   └── module_flye.log  
-    └── assembly_local/  
-        ├── local_assembly.fasta  
-        └── local_flye.log  
+```text
+assignment_6/
+├── pipeline.sh
+├── README.md
+├── flye-env.yml
+├── scripts/
+│   ├── 01_download_data.sh
+│   ├── 02_flye_2.9.6_manual_build.sh
+│   ├── 02_flye_2.9.6_conda_install.sh
+│   ├── 03_run_flye_conda.sh
+│   ├── 03_run_flye_module.sh
+│   └── 03_run_flye_local.sh
+├── data/
+│   └── SRR33939694.fastq.gz
+└── assemblies/
+    ├── assembly_conda/
+    │   ├── conda_assembly.fasta
+    │   └── conda_flye.log
+    ├── assembly_module/
+    │   ├── module_assembly.fasta
+    │   └── module_flye.log
+    └── assembly_local/
+        ├── local_assembly.fasta
+        └── local_flye.log
+
 
 - scripts/ contains all pipeline scripts 
 - data/ stores the downloaded FASTQ file (but ignored through .gitignore)
