@@ -7,7 +7,7 @@ dependencies:
   - bzip2=1.0.8
   - ca-certificates=2026.2.25
   - flye=2.9.6
-  - icu=78.2
+  - icu=78.3
   - ld_impl_linux-64=2.45.1
   - libexpat=2.7.4
   - libffi=3.5.2
