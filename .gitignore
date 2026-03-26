@@ -21,3 +21,5 @@ assignments/**/log/
 *.gz
 *.gff
 
+# Allow metadata file for assignment 7
+!assignments/assignment_7/data/SraRunTable.csv
